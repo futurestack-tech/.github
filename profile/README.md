@@ -1,6 +1,8 @@
 # 🚀 Future Stack
 
-Building modern web applications, intelligent automations, and interactive digital experiences for the future.
+> *"Writing the future, line by line."*
+
+Building modern web applications, intelligent automations, and interactive digital experiences.
 
 ---
 
