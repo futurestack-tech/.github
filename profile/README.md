@@ -6,13 +6,13 @@ Building modern web applications, intelligent automations, and interactive digit
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Luau" />
-</p>
+### 🛠️ Tech Stack
+
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+![Luau](https://shields.io)
 
 ---
 
